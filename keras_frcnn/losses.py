@@ -11,6 +11,7 @@ lambda_rpn_class = 1.0
 lambda_cls_regr = 1.0
 lambda_cls_class = 1.0
 lambda_cls_view = 1.0
+l=1
 
 epsilon = 1e-4
 
